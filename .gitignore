@@ -9,10 +9,6 @@ pnpm-debug.log*
 
 # Env files
 .env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
 # Build
 dist/
@@ -24,3 +20,9 @@ build/
 # Editor
 .vscode/
 .idea/
+
+# Local History
+.history
+
+# Client
+client/
